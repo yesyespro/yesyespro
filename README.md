@@ -13,7 +13,9 @@
    - Ainda estou estudando ela mas consigo criar algumas coisas
    
 
-
+##Sobre Mim
+   Eu estudo Cybersegurança e programação 👍👍👍👍👍
+   Sou do iniciante/Intermediario
 
 ## Contato
 
