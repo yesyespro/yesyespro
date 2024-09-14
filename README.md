@@ -2,7 +2,6 @@
 
 ## Linguagens de Programação
 
-Este projeto utiliza as seguintes linguagens de programação:
 
 1. **Linguagem C** 🟩
    - Uso já faz meio ano (Consigo criar varios programas)
